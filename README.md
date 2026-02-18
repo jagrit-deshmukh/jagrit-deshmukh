@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jagrit 👋
 
-<!--
-**jagrit-deshmukh/jagrit-deshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 MCA Student
+- ☁️ Pursuing Cloud Computing with AI
+- 🔐 Interested in Cybersecurity & Networking
+- 💻 Desktop Support Engineer
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Streamlit
+- Selenium
+- Networking (TCP/IP, Subnetting)
+- Linux
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Projects
+- AI Web Scraper
+- Cybersecurity Policy Generator
+- Networking Automation Tools
+
+## 📫 Connect With Me
+LinkedIn: 
+
