@@ -8,16 +8,10 @@
 
 ## 🛠 Skills
 - Python
-- Streamlit
-- Selenium
+
 - Networking (TCP/IP, Subnetting)
 - Linux
 - GitHub
-
-## 🔥 Current Projects
-- AI Web Scraper
-- Cybersecurity Policy Generator
-- Networking Automation Tools
 
 ## 📫 Connect With Me
 LinkedIn: 
